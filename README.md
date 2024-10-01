@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandreAuclair
 - 👀 I’m interested in video game and programming in anything
-- 🌱 I am now learning ps1 sdk
+- 🌱 I am now learning 8088 asm
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me email me at alexandre26auclair@gmail.com
 
